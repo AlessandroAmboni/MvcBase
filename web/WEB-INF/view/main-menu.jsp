@@ -12,5 +12,6 @@
 </head>
 <body>
 <h1>Spring mvc demo - test</h1>
+<a href="showForm">Go to form page</a>
 </body>
 </html>
