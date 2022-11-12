@@ -9,6 +9,8 @@
 <html>
 <head>
     <title>Title</title>
+    <link rel="stylesheet" type="text/css"
+          href="${pageContext.request.contextPath}/resources/static/css/my-test.css">
 </head>
 <body>
 <h1>Spring mvc demo - test</h1>
